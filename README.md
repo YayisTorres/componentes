@@ -5,7 +5,7 @@
 **Componente web completo para cafeterías con efectos interactivos, animaciones fluidas y diseño completamente responsivo.**
 
 ## 🌟 Demo en Vivo
-[Probar ahora](https://yayistorres.github.io/componentes/viedo/test.mp4)
+[Probar ahora](https://yayistorres.github.io/componentes/test.mp4)
 
 ## Características Principales
 - **Carrusel inteligente** con navegación manual/automática
